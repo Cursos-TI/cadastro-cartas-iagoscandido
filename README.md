@@ -36,7 +36,7 @@ Cada país será dividido em oito estados, identificados pelas letras de A a H. 
 
 ---
 
-## 🛡️ Nível Aventureiro
+## 🛡️ Nível Aventureiro - Feito
 
 No nível Aventureiro, você expandirá o sistema para incluir propriedades calculadas, permitindo uma análise mais detalhada das cartas.
 
